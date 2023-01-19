@@ -36,7 +36,7 @@
 </nav>
 <div class="row">
     <div class="col text-center">
-        <img src="imagenes/sunset.jpg">
+        <img src="sunset.jpg">
     </div>
         
 </div>
